@@ -17,5 +17,5 @@ You can find the code here:
 
 Simply copy and paste it into your custom.js file.
 
-I hope this helps.
+I hope this helps.<br>
 Andy Tang
