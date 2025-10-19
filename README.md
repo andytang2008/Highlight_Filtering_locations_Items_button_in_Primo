@@ -1,4 +1,4 @@
-Highlight “Filtering Locations Items” Button in Primo
+<h2>Highlight “Filtering Locations Items” Button in Primo</h2>
 
 Some librarians have discussed improving the physical items sort routine so that call numbers I–J–K sort in descending order while A–B–C sort in ascending order.
 (See: Ex Libris Idea Exchange suggestion
